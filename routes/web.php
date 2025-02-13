@@ -24,5 +24,4 @@ Route::get('/', function () {
 });
 
 // settings
-// Route::apiResource('settings', SettingController::class);
 
